@@ -8,6 +8,8 @@ Made on Python 3.8.x
 4. Create "urls.txt" file in the folder with a python program. Put URLs to index in it (1 URL = 1 line).
 5. Start the program and follow instructions in the console.
 
+UPDATE: Use PRO mode after starting program to send different URLs with different domains.
+
 Don't forget to install oauth2client. Enter in cmd:
 pip install oauth2client
 
